@@ -11,18 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **University of Southern California**
+---
+*__August 2022 - present__*
+*Master of Science in Computer Engineering*
+* GPA: 3.82/4.0
+  
+* __Hubei University__
+---
+*__May 2018 - June 2022__*
+*Bachelor of Engineering in Computer Science and Technology*
+* GPA: 85.56/100
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
+* Autonomous Networks Research Group, USC
+_Instructor: Prof. Bhaskar Krishnamachari_
+_Direct Research_
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* AI Lab, Hubei University
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -30,10 +30,9 @@ Research experience
 ======
 ------
 <div style="display: flex; justify-content: space-between;">
-    <div><strong>Autonomous Networks Research Group</strong></div>
+    <div><h2>Autonomous Networks Research Group</h2></div>
     <div style="text-align: right;"><strong>May 2023 - present</strong></div>
 </div>
----
 **University of Southern California** <br>
 _Instructor: Prof. Bhaskar Krishnamachari_  
 _Direct Research_  
@@ -41,10 +40,9 @@ _Direct Research_
 * Applied a Spatio-Temporal Graph Convolutional Network (ST-GCN) model for deep learning analysis of network data, and implemented an inference framework on Raspberry Pi with TensorFlow for real-time DDoS attack detection.  
 <br>
 <div style="display: flex; justify-content: space-between;">
-    <div><strong>AI Lab</strong></div>
+    <div><h2>AI Lab</h2></div>
     <div style="text-align: right;"><strong>March 2019 - December 2021</strong></div>
 </div>
----
 **Hubei University**  
 _Instructor: Prof. Prof. Lan You_<br>
 _Research Assistent_<br>
@@ -53,15 +51,6 @@ _Research Assistent_<br>
 * Contributed to a real-time vessel trajectory prediction system using AIS data and an optimized Seq2Seq model.
 * Built a binary-class image recognition ensemble model using mainstream neural networks
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======

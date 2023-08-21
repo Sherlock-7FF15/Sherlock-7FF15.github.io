@@ -29,16 +29,26 @@ Education
 
 Research experience
 ------
-### Autonomous Networks Research Group, USC
-**May 2023 - present**  
+<div style="display: flex; justify-content: space-between;">
+    <div><strong>Autonomous Networks Research Group</strong></div>
+    <div style="text-align: right;"><strong>University of Southern California</strong></div>
+</div>
+**May 2023 - present** <br>
 _Instructor: Prof. Bhaskar Krishnamachari_  
 _Direct Research_  
+
 * Developed a Raspberry Pi based IoT DDoS simulation framework with a time-step driven architecture, using a control server to manage node behaviors and simulate botnet states through UDP packets based on a real IoT dataset.
+
 * Applied a Spatio-Temporal Graph Convolutional Network (ST-GCN) model for deep learning analysis of network data, and implemented an inference framework on Raspberry Pi with TensorFlow for real-time DDoS attack detection.  
-### AI Lab, Hubei University
+<br>
+<div style="display: flex; justify-content: space-between;">
+    <div><strong>AI Lab</strong></div>
+    <div style="text-align: right;"><strong>Hubei University</strong></div>
+</div>
+
 **March 2019 - December 2021**  
-_Instructor: Prof. Prof. Lan You_  
-_Research Assistent_  
+_Instructor: Prof. Prof. Lan You_<br>
+_Research Assistent_<br>
 * Designed a food security platform with a Neo4j graph database, interactive knowledge graph visualization, and dynamic maps.
 * Developed a spatial-temporal recommendation system for taxi waiting times using an optimized MLP neural network.
 * Contributed to a real-time vessel trajectory prediction system using AIS data and an optimized Seq2Seq model.

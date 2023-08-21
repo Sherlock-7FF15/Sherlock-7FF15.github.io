@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+------
 <div style="display: flex; justify-content: space-between;">
     <div><strong>University of Southern California</strong></div>
     <div style="text-align: right;"><strong>August 2022 - present</strong></div>
@@ -27,11 +28,13 @@ Education
 
 Research experience
 ======
+------
 <div style="display: flex; justify-content: space-between;">
     <div><strong>Autonomous Networks Research Group</strong></div>
-    <div style="text-align: right;"><strong>University of Southern California</strong></div>
+    <div style="text-align: right;"><strong>May 2023 - present</strong></div>
 </div>
-**May 2023 - present** <br>
+---
+**University of Southern California** <br>
 _Instructor: Prof. Bhaskar Krishnamachari_  
 _Direct Research_  
 * Developed a Raspberry Pi based IoT DDoS simulation framework with a time-step driven architecture, using a control server to manage node behaviors and simulate botnet states through UDP packets based on a real IoT dataset.
@@ -39,9 +42,10 @@ _Direct Research_
 <br>
 <div style="display: flex; justify-content: space-between;">
     <div><strong>AI Lab</strong></div>
-    <div style="text-align: right;"><strong>Hubei University</strong></div>
+    <div style="text-align: right;"><strong>March 2019 - December 2021</strong></div>
 </div>
-**March 2019 - December 2021**  
+---
+**Hubei University**  
 _Instructor: Prof. Prof. Lan You_<br>
 _Research Assistent_<br>
 * Designed a food security platform with a Neo4j graph database, interactive knowledge graph visualization, and dynamic maps.

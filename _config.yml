@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiahe Zhang"
-  avatar           : "https://github.com/Sherlock-7FF15/Sherlock-7FF15.github.io/blob/7c266b4434f5596fbd011039172108d239f5e94f/files/866BC547233E5515EC8CF2EEDF17FE11.PNG"
+  avatar           : "https://github.com/Sherlock-7FF15/Sherlock-7FF15.github.io/blob/7c266b4434f5596fbd011039172108d239f5e94f/files/866BC547233E5515EC8CF2EEDF17FE11.PNG?raw=true"
   bio              : "M.S. Computer Engineering, University of Southern California"
   location         : "Los Angeles, CA"
   employer         :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

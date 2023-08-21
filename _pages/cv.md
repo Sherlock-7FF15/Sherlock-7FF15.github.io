@@ -11,14 +11,12 @@ redirect_from:
 
 Education
 ======
-* **University of Southern California**
-  ---
+### **University of Southern California**
   **August 2022 - present**  
   *Master of Science in Computer Engineering*  
   GPA: 3.82/4.0  
 
-* **Hubei University**
-  ---
+### **Hubei University**
   **September 2018 - June 2022**  
   *Bachelor of Engineering in Computer Science and Technology*  
   GPA: 85.56/100  

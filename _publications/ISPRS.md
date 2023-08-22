@@ -1,7 +1,7 @@
 ---
 title: "A Spatio-temporal Schedule-fused Neural Network for Urban Taxi Waiting Time Prediction"
 collection: publications
-permalink: /publication/ISPRS.md
+permalink: /publication/ISPRS
 date: 2021-10-15
 venue: 'International Journal of Geo- Information, ISPRS (IF: 3.4, SCI Q3)'
 paperurl: 'https://www.mdpi.com/2220-9964/10/10/703'

@@ -13,5 +13,5 @@ Hi I'm Jiahe Zhang. I'm a master's student in the Ming Hsieh Department of Elect
 <br>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 <i class="fas fa-file"></i>
-You can find my resume here.
+You can find my resume <a href="https://github.com/Sherlock-7FF15" target="_blank">here</a>.
 

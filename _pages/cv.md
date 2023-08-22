@@ -44,7 +44,7 @@ _Direct Research_<br>
     <div style="text-align: right;"><strong>March 2019 - December 2021</strong></div>
 </div>
 *Hubei University*<br>
-_Instructor: Prof. Prof. Lan You_<br>
+_Instructor: Prof. Lan You_<br>
 _Research Assistent_<br>
 * Designed a food security platform with a Neo4j graph database, interactive knowledge graph visualization, and dynamic maps.
 * Developed a spatial-temporal recommendation system for taxi waiting times using an optimized MLP neural network.

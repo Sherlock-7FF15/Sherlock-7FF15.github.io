@@ -30,7 +30,7 @@ Research experience
 ======
 ------
 <div style="display: flex; justify-content: space-between;">
-    <div><strong>Autonomous Networks Research Group</strong>strong></div>
+    <div><strong>Autonomous Networks Research Group</strong></div>
     <div style="text-align: right;"><strong>May 2023 - present</strong></div>
 </div>
 *University of Southern California* <br>

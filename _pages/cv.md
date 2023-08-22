@@ -51,25 +51,3 @@ _Research Assistent_<br>
 * Contributed to a real-time vessel trajectory prediction system using AIS data and an optimized Seq2Seq model.
 * Built a binary-class image recognition ensemble model using mainstream neural networks
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

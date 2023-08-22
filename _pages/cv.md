@@ -30,7 +30,7 @@ Research experience
 ======
 ------
 <div style="display: flex; justify-content: space-between;">
-    <div><h2>Autonomous Networks Research Group</h2></div>
+    <div><Autonomous Networks Research Group</div>
     <div style="text-align: right;"><strong>May 2023 - present</strong></div>
 </div>
 **University of Southern California** <br>
@@ -40,7 +40,7 @@ _Direct Research_
 * Applied a Spatio-Temporal Graph Convolutional Network (ST-GCN) model for deep learning analysis of network data, and implemented an inference framework on Raspberry Pi with TensorFlow for real-time DDoS attack detection.  
 <br>
 <div style="display: flex; justify-content: space-between;">
-    <div><h2>AI Lab</h2></div>
+    <div>AI Lab</div>
     <div style="text-align: right;"><strong>March 2019 - December 2021</strong></div>
 </div>
 **Hubei University**  

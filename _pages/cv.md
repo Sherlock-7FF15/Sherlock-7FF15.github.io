@@ -30,12 +30,12 @@ Research experience
 ======
 ------
 <div style="display: flex; justify-content: space-between;">
-    <div><Autonomous Networks Research Group</div>
+    <div>Autonomous Networks Research Group</div>
     <div style="text-align: right;"><strong>May 2023 - present</strong></div>
 </div>
-**University of Southern California** <br>
-_Instructor: Prof. Bhaskar Krishnamachari_  
-_Direct Research_  
+*University of Southern California* <br>
+_Instructor: Prof. Bhaskar Krishnamachari_<br>
+_Direct Research_<br>
 * Developed a Raspberry Pi based IoT DDoS simulation framework with a time-step driven architecture, using a control server to manage node behaviors and simulate botnet states through UDP packets based on a real IoT dataset.
 * Applied a Spatio-Temporal Graph Convolutional Network (ST-GCN) model for deep learning analysis of network data, and implemented an inference framework on Raspberry Pi with TensorFlow for real-time DDoS attack detection.  
 <br>
@@ -43,7 +43,7 @@ _Direct Research_
     <div>AI Lab</div>
     <div style="text-align: right;"><strong>March 2019 - December 2021</strong></div>
 </div>
-**Hubei University**  
+*Hubei University*<br>
 _Instructor: Prof. Prof. Lan You_<br>
 _Research Assistent_<br>
 * Designed a food security platform with a Neo4j graph database, interactive knowledge graph visualization, and dynamic maps.

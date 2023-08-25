@@ -36,7 +36,7 @@ Research experience
 *University of Southern California* <br>
 _Instructor: Prof. Bhaskar Krishnamachari_<br>
 _Direct Research_<br>
-* Developed a Raspberry Pi based IoT DDoS simulation framework with a time-step driven architecture, using a control server to manage node behaviors and simulate botnet states through UDP packets based on a real IoT dataset.
+* Developed a Raspberry Pi based IoT DDoS simulation framework with a time-step driven architecture, using a control server to manage node behaviors and simulate botnet states through UDP protocol based on a real IoT dataset.
 * Applied a Spatio-Temporal Graph Convolutional Network (ST-GCN) model for deep learning analysis of network data, and implemented an inference framework on Raspberry Pi with TensorFlow for real-time DDoS attack detection.  
 <br>
 <div style="display: flex; justify-content: space-between;">

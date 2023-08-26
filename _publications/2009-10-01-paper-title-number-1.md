@@ -11,4 +11,5 @@ citation: 'J. Fan, C. Xu and J. Zhang, "An Ensemble Learning Approach of Multi-M
   <span style="font-size: 80%;">Authors in the paper contribute equally.</span>
 </div>  
 <br>
-Download <a href="https://ieeexplore.ieee.org/abstract/document/9696124">here</a>
+Find Paper <a href="https://ieeexplore.ieee.org/abstract/document/9696124">here</a> <br>
+Download <a href="https://drive.google.com/file/d/1KRKBLmnvDSt-Mscgr7HSHTZ4T2SnpVr8/view?usp=sharing">here</a>

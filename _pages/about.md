@@ -16,4 +16,7 @@ Hi, I'm Jiahe Zhang. I'm a master's student in the Ming Hsieh Department of Elec
 You can find my resume <a href="https://drive.google.com/file/d/1srbjZD0nmwZUacqzWiIF6b9NWZ5jSZIC/view?usp=sharing" target="_blank">here</a>.
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-# <span id="busuanzi_container_site_pv" style="display:none;">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+
+<!--
+<span id="busuanzi_container_site_pv" style="display:none;">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+-->

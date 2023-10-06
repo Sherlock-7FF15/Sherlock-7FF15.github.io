@@ -17,7 +17,6 @@ You can find my resume <a href="https://drive.google.com/file/d/1srbjZD0nmwZUacq
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<!--
+
 <span id="busuanzi_container_site_pv" style="display:none;">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 
--->

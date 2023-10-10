@@ -51,3 +51,7 @@ _Research Assistant_<br>
 * Contributed to a real-time vessel trajectory prediction system using AIS data and an optimized Seq2Seq model.
 * Built a binary-class image recognition ensemble model using mainstream neural networks
 
+Research Interest
+======
+------
+IoT and Computer Network, Network Security, Machine Learning, Distributed System, Edge Computing, Natural Language Processing, Knowledge Graphs

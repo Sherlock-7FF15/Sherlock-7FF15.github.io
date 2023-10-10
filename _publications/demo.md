@@ -9,4 +9,4 @@ citation: "Jiahe Zhang, Tamoghna Sarkar, Arvin Hekmati, and Bhaskar Krishnamacha
 ---
 **Abstract:** This paper will be published in the proceedings of the conference, and the source code associated with this paper is available <a href="https://github.com/ANRGUSC/ddos_demo">here</a>.
 <br>
-**Note: ** This work corresponds to the project "ML Inferencing for DDoS Attack Detection in Heterogeneous & Constrained Environments", <a href="https://sherlock-7ff15.github.io/portfolio/ddos-detection/">here</a>.
+**Note:** This work corresponds to the project "ML Inferencing for DDoS Attack Detection in Heterogeneous & Constrained Environments", <a href="https://sherlock-7ff15.github.io/portfolio/ddos-detection/">here</a>.

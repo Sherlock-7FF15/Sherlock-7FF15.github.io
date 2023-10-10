@@ -13,7 +13,7 @@ Hi, I'm Jiahe Zhang. I'm a master's student in the Ming Hsieh Department of Elec
 <br>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 <i class="fas fa-file"></i>
-You can find my resume <a href="https://drive.google.com/file/d/1s2p3KhWipdCYwLYMq2RYRPz4DIaZSNoJ/view?usp=sharing" target="_blank">here</a>.
+You can find my resume <a href="https://drive.google.com/file/d/1gCq_8vOdNRdHCk0Civ8AVrv7kT483qdc/view?usp=sharing" target="_blank">here</a>.
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 

@@ -1,6 +1,6 @@
 ---
 title: "ML Inferencing for DDoS Attack Detection in Heterogeneous & Constrained Environments"
-excerpt: "exploring machine learning techniques to detect advanced DDoS attacks from IoT devices that mimic benign traffic, introducing correlation-aware architectures and comparing centralized versus distributed detection methods. <br/><img src='https://github.com/Sherlock-7FF15/Sherlock-7FF15.github.io/blob/master/images/iot.png?raw=true'>"
+excerpt: "Exploring machine learning techniques to detect advanced DDoS attacks from IoT devices that mimic benign traffic, introducing correlation-aware architectures and comparing centralized versus distributed detection methods. <br/><img src='https://github.com/Sherlock-7FF15/Sherlock-7FF15.github.io/blob/master/images/iot.png?raw=true'>"
 collection: portfolio
 ---
 
@@ -9,8 +9,16 @@ collection: portfolio
 <br>
 In light of the recent explosion in Internet of Things (IoT) device adoption, security vulnerabilities, particularly those associated with Distributed Denial of Service (DDoS) attacks, have become more acute. Our earlier work focused on an LSTM-driven model capable of identifying advanced DDoS threats, but was largely validated on synthetic datasets. To overcome this limitation, we engineered a test environment using Raspberry Pi units that replicate the intricacies of a comprehensive IoT network. This infrastructure enables us to generate authentic DDoS attack scenarios involving IoT devices and assess the efficacy of various DDoS mitigation strategies.<br>
 <br>
+In this project, I was responsible for:<br>
+1. Designed a Raspberry Pi (Rpi) based IoT simulation framework for slow-rate DDoS attacks, modeling complex network topologies and behaviors for rigorous security analysis.<br>
+2. Developed a time-step-driven node activity simulation, leveraging real-world IoT dataset to emulate nuanced network traffic patterns on 50 Rpis.<br>
+3. Conducted a large-scale Mininet-based DDoS attack simulation on the server, emulating realistic network traffic patterns.<br>
+4. Implemented an efficient model inference framework on Rpis, utilizing a FIFO queue for data acquisition and TensorFlow for real-time DDoS attack identification.<br>
+5. Employed the Spatio-Temporal Graph Convolutional Network (ST-GCN) architecture for sophisticated DDoS attack detection, extracting spatio-temporal features and predicting attack occurrences.<br>
+<br>
 **Note:** This is an ongoing project.
 <br>
+
 <img src="https://github.com/Sherlock-7FF15/Sherlock-7FF15.github.io/blob/master/images/queue%20information.png?raw=true"><br>
 <img src="https://github.com/Sherlock-7FF15/Sherlock-7FF15.github.io/blob/master/images/stgcn_rpis.png?raw=true"><br>
 <img src="https://github.com/Sherlock-7FF15/Sherlock-7FF15.github.io/blob/master/images/Screenshot%202023-08-14%20at%2018.27.08.png?raw=true"><br>

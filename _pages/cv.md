@@ -24,7 +24,7 @@ Education
     <div style="text-align: right;"><strong>September 2018 - June 2022</strong></div>
 </div>
   *Bachelor of Engineering in Computer Science and Technology* <br>
-  GPA: 85.56/100<br>
+  GPA: 85.56/100<br> Department Rank: Top 10%
 
 Research experience
 ======
@@ -35,7 +35,7 @@ Research experience
 </div>
 *University of Southern California* <br>
 _Instructor: Prof. Bhaskar Krishnamachari_<br>
-_Direct Research_<br>
+_Directed Research_<br>
 * Developed a Raspberry Pi based IoT DDoS simulation framework with a time-step driven architecture, using a control server to manage node behaviors and simulate botnet states through UDP protocol based on a real IoT dataset.
 * Applied a Spatio-Temporal Graph Convolutional Network (ST-GCN) model for deep learning analysis of network data, and implemented an inference framework on Raspberry Pi with TensorFlow for real-time DDoS attack detection.  
 <br>
@@ -45,7 +45,7 @@ _Direct Research_<br>
 </div>
 *Hubei University*<br>
 _Instructor: Prof. Lan You_<br>
-_Research Assistent_<br>
+_Research Assistant_<br>
 * Designed a food security platform with a Neo4j graph database, interactive knowledge graph visualization, and dynamic maps.
 * Developed a spatial-temporal recommendation system for taxi waiting times using an optimized MLP neural network.
 * Contributed to a real-time vessel trajectory prediction system using AIS data and an optimized Seq2Seq model.

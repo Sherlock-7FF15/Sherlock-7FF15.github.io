@@ -26,6 +26,5 @@ You can find my resume <a href="https://drive.google.com/file/d/1gCq_8vOdNRdHCk0
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-9TB8ZMKB5W');
 </script>

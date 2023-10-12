@@ -20,12 +20,12 @@ You can find my resume <a href="https://drive.google.com/file/d/1gCq_8vOdNRdHCk0
 <!--
 <span id="busuanzi_container_site_pv" style="display:none;">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9TB8ZMKB5W"></script>
 <script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?c60d0546febc642256cc06c7cdfe5894";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9TB8ZMKB5W');
 </script>

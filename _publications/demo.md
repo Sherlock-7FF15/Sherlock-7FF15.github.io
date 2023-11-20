@@ -12,5 +12,7 @@ attacks. Our prior research developed an LSTM-based framework for detecting futu
 <br>
 This paper will be published in the proceedings of the conference, and the source code associated with this paper is available <a href="https://github.com/ANRGUSC/ddos_demo">here</a>.
 <br>
+Download Paper <a herf="https://drive.google.com/file/d/1l9BQzl_Xes__abtTC6qkySnEhCY7BcCh/view?usp=sharing">here</a>
+<br>
 **Note:** This work corresponds to the project "ML Inferencing for DDoS Attack Detection in Heterogeneous & Constrained Environments", <a href="https://sherlock-7ff15.github.io/portfolio/ddos-detection/">here</a>.
 <br>
